@@ -1,2 +1,2 @@
 # test
-this is a test repo for testing and learning
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
